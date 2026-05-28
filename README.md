@@ -1,112 +1,149 @@
-# 👋 Olá, eu sou o Davi Arruda
+<div align="center">
 
-💻 **Estudante de Ciências da Computação | Desenvolvedor Backend em Formação**  
-🚀 Focado em Python, Java, estruturas de dados e sistemas distribuídos
+```
+██████╗  █████╗ ██╗   ██╗██╗     █████╗ ██████╗ ██████╗ ██╗   ██╗██████╗  █████╗
+██╔══██╗██╔══██╗██║   ██║██║    ██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔══██╗██╔══██╗
+██║  ██║███████║██║   ██║██║    ███████║██████╔╝██████╔╝██║   ██║██║  ██║███████║
+██║  ██║██╔══██║╚██╗ ██╔╝██║    ██╔══██║██╔══██╗██╔══██╗██║   ██║██║  ██║██╔══██║
+██████╔╝██║  ██║ ╚████╔╝ ██║    ██║  ██║██║  ██║██║  ██║╚██████╔╝██████╔╝██║  ██║
+╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
----
+### `> backend_dev.init() // Recife, BR`
 
-## 💫 Sobre Mim
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Backend+Developer+em+Forma%C3%A7%C3%A3o+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Python+%7C+Docker;Entendo+o+porqu%C3%AA%2C+n%C3%A3o+s%C3%B3+o+como+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-🎓 Sou estudante do **4º período de Ciências da Computação na CESAR School**, com grande interesse em **backend, arquitetura de software e redes**.
-
-🌱 Tenho me dedicado a entender desde os fundamentos (algoritmos, estruturas de dados e programação em baixo nível) até o desenvolvimento de **APIs modernas e sistemas escaláveis**.
-
-🧠 Perfil analítico, curioso e mão na massa — gosto de aprender construindo projetos reais e entendendo o *porquê* das coisas, não só o *como*.
-
-👯 Busco colaborar em:
-- Projetos **open source**
-- Desenvolvimento backend
-- APIs REST
-- Projetos acadêmicos e pessoais em Python ou Java
-
-🤔 Atualmente busco evoluir em:
-- Arquitetura de software
-- Desenvolvimento de APIs REST
-- Sistemas distribuídos
-- Boas práticas de código limpo e escalável
+</div>
 
 ---
 
-## 🛠️ Tecnologias com as Quais Trabalho
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
-### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+## `whoami`
 
----
+```bash
+$ cat davi.json
+```
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+```json
+{
+  "nome": "Davi Arruda",
+  "localização": "Recife, Pernambuco 🦀",
+  "faculdade": "CESAR School — 4º período",
+  "foco": ["Backend", "Arquitetura de Software", "Sistemas Distribuídos"],
+  "mentalidade": "Entendo o porquê, não só o como",
+  "status": "building in public 🚀"
+}
+```
 
-- Desenvolvimento de **APIs REST**
-- Programação orientada a objetos (Java)
-- Backend com **Spring Boot**
-- Programação estruturada e baixo nível com C
-- Comunicação cliente-servidor usando **sockets**
+<br clear="right"/>
 
 ---
 
-### ☁️ DevOps, Cloud & CI/CD
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+## `stack --list`
 
-- Dockerização de aplicações
-- Introdução a deploy em **AWS e GCP**
-- Automação de pipelines com GitHub Actions
+<div align="center">
 
----
+### ⚙️ Backend & Core
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🛠️ Ferramentas
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## 🌱 Atualmente Aprendendo
-
-- Estruturas de Dados Avançadas em **C**
-- **Java e Spring Boot** para criação de APIs REST
-- **Spring Boot REST APIs do zero à AWS e GCP**, usando **Java e Docker**
-- Comunicação Cliente-Servidor com **Sockets em Python**
-- Conceitos de **Arquitetura de Software**
-- Inglês técnico para tecnologia 🌍
+</div>
 
 ---
 
-## 📂 Projetos em Destaque
+## `git log --projects`
 
-📌 **Sistema Cliente-Servidor em Python**
-- Implementação com sockets
-- Simulação de perda de pacotes
-- Janela deslizante
-- Retransmissão e confiabilidade de dados
+<details>
+<summary><b>📡 Sistema Cliente-Servidor em Python</b></summary>
+<br>
 
-📌 **APIs REST com Spring Boot (em desenvolvimento)**
-- Criação de endpoints REST
-- Estruturação de projetos backend
-- Dockerização e deploy em cloud
+> Implementação de comunicação em rede do zero
+
+- 🔌 Comunicação via **Sockets TCP/UDP**
+- 📦 Simulação de **perda de pacotes**
+- 🪟 Algoritmo de **janela deslizante**
+- ✅ Mecanismo de **retransmissão e confiabilidade**
+
+</details>
+
+<details>
+<summary><b>📊 ACPOO — Sistema de Gestão de Ativos e Investidores</b></summary>
+<br>
+
+> Projeto de POO em Java — simulação de uma plataforma de investimentos
+
+- 👤 Gerenciamento de investidores (PF e PJ)
+- 💹 Controle de títulos e ativos financeiros
+- 🗃️ Persistência com serialização via `.dat`
+- ✅ Testes unitários com **JUnit 5**
+
+</details>
+
+<details>
+<summary><b>🔧 APIs REST com Spring Boot <i>(em desenvolvimento)</i></b></summary>
+<br>
+
+> Construindo do zero ao deploy em cloud
+
+- 🛠️ Estruturação de projetos backend
+- 🐳 **Dockerização** da aplicação
+- ☁️ Deploy em **AWS / GCP**
+
+</details>
 
 ---
 
-## 📫 Como Me Encontrar
+## `git stats`
 
-📧 Contato via **Gmail**  
-💼 LinkedIn:  
-🔗 https://www.linkedin.com/in/davi-arruda-417053330/  
+<div align="center">
 
-🐙 GitHub:  
-🔗 https://github.com/daviaarruda
-
----
-
-<a href="https://github.com/daviaarruda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviaarruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/daviaarrudaofc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviaarrudaofc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviaarrudaofc&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
 </a>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=daviaarrudaofc&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `./contact.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-arruda-417053330/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviarruda092@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daviaarrudaofc)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+$ echo "Construindo uma linha de código por vez." && echo "// Recife → 🌍"
+```
+
+![](https://komarev.com/ghpvc/?username=daviaarrudaofc&color=00d9ff&style=flat-square&label=visitors)
+
+</div>
