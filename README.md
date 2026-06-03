@@ -69,17 +69,7 @@ $ cat davi.json
 
 
 
-<details>
-<summary><b>🔧 APIs REST com Spring Boot <i>(em desenvolvimento)</i></b></summary>
-<br>
 
-> Construindo do zero ao deploy em cloud
-
-- 🛠️ Estruturação de projetos backend
-- 🐳 **Dockerização** da aplicação
-- ☁️ Deploy em **AWS / GCP**
-
-</details>
 
 ---
 
