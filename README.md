@@ -67,33 +67,7 @@ $ cat davi.json
 
 ---
 
-## `git log --projects`
 
-<details>
-<summary><b>📡 Sistema Cliente-Servidor em Python</b></summary>
-<br>
-
-> Implementação de comunicação em rede do zero
-
-- 🔌 Comunicação via **Sockets TCP/UDP**
-- 📦 Simulação de **perda de pacotes**
-- 🪟 Algoritmo de **janela deslizante**
-- ✅ Mecanismo de **retransmissão e confiabilidade**
-
-</details>
-
-<details>
-<summary><b>📊 ACPOO — Sistema de Gestão de Ativos e Investidores</b></summary>
-<br>
-
-> Projeto de POO em Java — simulação de uma plataforma de investimentos
-
-- 👤 Gerenciamento de investidores (PF e PJ)
-- 💹 Controle de títulos e ativos financeiros
-- 🗃️ Persistência com serialização via `.dat`
-- ✅ Testes unitários com **JUnit 5**
-
-</details>
 
 <details>
 <summary><b>🔧 APIs REST com Spring Boot <i>(em desenvolvimento)</i></b></summary>
