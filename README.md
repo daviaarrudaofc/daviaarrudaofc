@@ -71,20 +71,7 @@ $ cat davi.json
 
 
 
----
 
-## `git stats`
-
-<div align="center">
-
-
-
-<br/><br/>
-
-
-</div>
-
----
 
 ## `./contact.sh`
 
