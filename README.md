@@ -77,14 +77,10 @@ $ cat davi.json
 
 <div align="center">
 
-<a href="https://github.com/daviaarrudaofc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviaarrudaofc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviaarrudaofc&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
-</a>
+
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=daviaarrudaofc&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
