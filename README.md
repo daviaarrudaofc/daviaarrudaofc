@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+```text
 ██████╗  █████╗ ██╗   ██╗██╗     █████╗ ██████╗ ██████╗ ██╗   ██╗██████╗  █████╗
 ██╔══██╗██╔══██╗██║   ██║██║    ██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔══██╗██╔══██╗
 ██║  ██║███████║██║   ██║██║    ███████║██████╔╝██████╔╝██║   ██║██║  ██║███████║
@@ -9,77 +9,115 @@
 ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-### `> backend_dev.init() // Recife, BR`
+### Backend Developer | Java & Spring Boot
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Backend+Developer+em+Forma%C3%A7%C3%A3o+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Python+%7C+Docker;Entendo+o+porqu%C3%AA%2C+n%C3%A3o+s%C3%B3+o+como+%F0%9F%A7%A0)](https://git.io/typing-svg)
+Ciência da Computação — CESAR School  
+Recife, Pernambuco
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
-
 ## `whoami`
 
-```bash
-$ cat davi.json
-```
+Sou estudante de Ciência da Computação e atualmente concentro meus estudos em desenvolvimento backend com Java e Spring Boot.
 
-```json
-{
-  "nome": "Davi Arruda",
-  "localização": "Recife, Pernambuco 🦀",
-  "faculdade": "CESAR School — 4º período",
-  "foco": ["Backend", "Arquitetura de Software", "Sistemas Distribuídos"],
-  "mentalidade": "Entendo o porquê, não só o como",
-  "status": "building in public 🚀"
-}
-```
+Tenho aprofundado conhecimentos em construção de APIs REST, arquitetura de aplicações, injeção de dependências, persistência de dados, bancos relacionais, Docker e fundamentos de sistemas distribuídos.
 
-<br clear="right"/>
+Busco entender como as aplicações são estruturadas por dentro, desde as regras de negócio até a comunicação com banco de dados, infraestrutura e outros serviços.
+
+```text
+Current focus:
+Java
+Spring Boot
+REST APIs
+Software Architecture
+Databases
+Docker
+Distributed Systems
+```
 
 ---
 
-## `stack --list`
+## `current-focus`
 
-<div align="center">
+Atualmente estudando e desenvolvendo projetos envolvendo:
 
-### ⚙️ Backend & Core
+- Java e programação orientada a objetos
+- Spring Boot e ecossistema Spring
+- Spring Data JPA e Hibernate
+- Desenvolvimento de APIs REST
+- Arquitetura em camadas
+- Injeção de dependências
+- Modelagem e persistência de dados
+- Bancos de dados relacionais
+- Docker e ambientes de desenvolvimento
+- Git e GitHub
+- Fundamentos de sistemas distribuídos
+- Conceitos de cloud computing
+
+---
+
+## `stack`
+
+### Backend
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Database
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+### Infrastructure & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
+## `learning`
 
+Meu foco atual está menos em acumular tecnologias e mais em entender bem os fundamentos por trás do desenvolvimento backend.
 
+```java
+public class CurrentStudies {
 
+    private final String language = "Java";
+    private final String framework = "Spring Boot";
 
+    String[] topics = {
+        "REST APIs",
+        "Dependency Injection",
+        "Spring Data JPA",
+        "Hibernate",
+        "Software Architecture",
+        "Relational Databases",
+        "Docker",
+        "Distributed Systems"
+    };
+}
+```
 
+---
 
-## `./contact.sh`
+## `contact`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-arruda-417053330/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviarruda092@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daviaarrudaofc)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daviaarrudaofc)
 
 </div>
 
@@ -87,10 +125,8 @@ $ cat davi.json
 
 <div align="center">
 
-```bash
-$ echo "Construindo uma linha de código por vez." && echo "// Recife → 🌍"
-```
+Backend development, software architecture and distributed systems.
 
-![](https://komarev.com/ghpvc/?username=daviaarrudaofc&color=00d9ff&style=flat-square&label=visitors)
+![](https://komarev.com/ghpvc/?username=daviaarrudaofc&color=00d9ff&style=flat-square&label=views)
 
 </div>
